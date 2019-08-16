@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aplikasi Makanan</string>
+    <string-array name="nama_makanan">
+        <item>Soto Padang</item>
+        <item>Soto Betawi</item>
+        <item>Nasi Goreng Petai</item>
+        <item>Nasi Goreng Spesial</item>
+        <item>Mie Goreng Terong</item>
+        <item>Mie Goreng Spesial</item>
+    </string-array>
+</resources>
